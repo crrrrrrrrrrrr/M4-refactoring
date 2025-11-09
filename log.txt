@@ -1,4 +1,5 @@
-6b985bd (HEAD -> main) updating git logs after Task 2.3
+e253ef3 (HEAD -> main, origin/main, origin/HEAD) finished  Task 2.4 and updated git logs
+6b985bd updating git logs after Task 2.3
 541e77e finished task Task 2.3
 03ceff6 updating git log after Task 2.2
 45a65f7 finished getVolumeCredits for Task 2.2
@@ -8,4 +9,4 @@ bc5e7e3 finished Task 2.1
 afbec43 extracted switch statement for StatementPrinter Task 2.1
 f3ad135 updated the git log for Task 1.2
 65e424c fixed checkstyle issues for Task 1.1
-2bfbea2 (origin/main, origin/HEAD) Initial commit
+2bfbea2 Initial commit
