@@ -1,4 +1,5 @@
-541e77e (HEAD -> main) finished task Task 2.3
+6b985bd (HEAD -> main) updating git logs after Task 2.3
+541e77e finished task Task 2.3
 03ceff6 updating git log after Task 2.2
 45a65f7 finished getVolumeCredits for Task 2.2
 1f058ae updating git logs after completing Task 2.1
