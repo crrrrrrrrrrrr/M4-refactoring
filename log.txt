@@ -1,4 +1,6 @@
-afbec43 (HEAD -> main) extracted switch statement for StatementPrinter Task 2.1
+bc5e7e3 (HEAD -> main) finished Task 2.1
+056abf6 updated git log after Task 2.1
+afbec43 extracted switch statement for StatementPrinter Task 2.1
 f3ad135 updated the git log for Task 1.2
 65e424c fixed checkstyle issues for Task 1.1
 2bfbea2 (origin/main, origin/HEAD) Initial commit
